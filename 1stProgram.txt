@@ -1,0 +1,8 @@
+Welcome to my first Git Profile.
+
+This is my First Program
+
+Hello World !
+My name is Amit Madeli
+
+Thank You.
